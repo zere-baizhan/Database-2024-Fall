@@ -1,0 +1,1 @@
+SELECT country_name,population * 1.10 AS "New popultaion" FROM countries_new;
