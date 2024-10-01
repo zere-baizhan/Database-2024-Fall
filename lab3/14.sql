@@ -1,0 +1,1 @@
+SELECT name,lastname from employees WHERE city='Almaty' UNION SELECT name,lastname from customers WHERE city='Almaty';;

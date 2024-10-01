@@ -1,0 +1,1 @@
+SELECT DISTINCT lastname FROM employees;

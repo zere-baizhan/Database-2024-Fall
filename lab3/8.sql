@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE department=37 or department=77;

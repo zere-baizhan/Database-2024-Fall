@@ -1,0 +1,1 @@
+SELECT department AS code, COUNT(*) AS num_employees FROM employees GROUP BY department HAVING COUNT(*)>2;
