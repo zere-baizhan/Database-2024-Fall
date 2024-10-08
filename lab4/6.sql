@@ -1,0 +1,1 @@
+SELECT DISTINCT ON (contents) * FROM boxes;

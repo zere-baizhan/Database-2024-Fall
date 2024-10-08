@@ -1,0 +1,1 @@
+SELECT * FROM boxes WHERE value>150;
